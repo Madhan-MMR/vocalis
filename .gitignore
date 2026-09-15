@@ -1,0 +1,10 @@
+﻿server/.env
+service/.env
+.env
+node_modules/
+__pycache__/
+*.pyc
+client/dist/
+service/data/
+service/audio/
+.vscode/
